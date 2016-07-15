@@ -2,9 +2,6 @@ package br.ufg.inf.dsdm.idenuncia.model;
 
 import java.util.Date;
 
-/**
- * Created by José Sérgio de Souza on 13/07/2016.
- */
 public class Denuncia {
     private int idDenuncia;
     private int idUser;
