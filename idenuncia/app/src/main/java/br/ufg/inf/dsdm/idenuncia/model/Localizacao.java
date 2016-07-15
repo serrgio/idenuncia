@@ -15,7 +15,7 @@ public class Localizacao {
         this.lat = lat;
     }
 
-    public Float getLongi() {
+    public Float getLong() {
         return longi;
     }
 
